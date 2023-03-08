@@ -1,13 +1,13 @@
-package com.example.mydemo;
+package com.lyel.user;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MydemoApplication {
+public class UserApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MydemoApplication.class, args);
+        SpringApplication.run(UserApplication.class, args);
     }
 
 }
